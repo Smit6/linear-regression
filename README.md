@@ -8,3 +8,6 @@ Car Price Prediction Multiple Linear Regression dataset from [kaggle](https://ww
 
 ### sklearn
 Leverage sklearn Linear Regression algorithm to predict car price based on horsepowers.
+
+### scratch
+Implementation of simple linear regression algorithm from scratch to predict car price based on horsepowers.
