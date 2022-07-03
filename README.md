@@ -7,6 +7,8 @@ Simple Linear Regression, Multiple Linear Regression, and Polynomial Linear Regr
 
 ### make_regression dataset from sklearn.datasets
 
+### load_diabetes dataset from sklearn.datasets
+
 ## Simple Linear Regression
 
 ### sklearn
@@ -19,3 +21,6 @@ Implementation of simple linear regression algorithm from scratch to predict car
 
 ### sklearn
 Leverage sklearn Linear Regression algorithm to perfrom multiple linear regression on make_regression dataset.
+
+### compare sklearn and scratch
+Implements Multiple Linear Regression from scratch for sklearn diabetes dataset and compare results with sklearn LinearRegression
