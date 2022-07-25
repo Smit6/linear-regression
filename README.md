@@ -24,3 +24,8 @@ Leverage sklearn Linear Regression algorithm to perfrom multiple linear regressi
 
 ### compare sklearn and scratch
 Implements Multiple Linear Regression from scratch for sklearn diabetes dataset and compare results with sklearn LinearRegression
+
+## Polynomial Linear Regression
+
+### sklearn
+Apply sklearn Polynomial Linear Regression when Linear Regression is not an optimal solution.
